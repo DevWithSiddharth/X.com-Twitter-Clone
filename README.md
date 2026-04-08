@@ -10,9 +10,9 @@ Whether you're looking to learn from the structure or want to showcase your skil
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://cyberlordsy.github.io/X.com-Twitter-Clone/)  
+👉 [Click here to view the live site](https://DevWithSiddharth.github.io/X.com-Twitter-Clone/)  
 
-> *CyberLordSY*
+> *DevWithSiddharth*
 
 ---
 
@@ -48,7 +48,7 @@ If you'd like to run the project locally, follow the instructions below:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/CyberLordSY/X.com-Twitter-Clone.git
+git clone https://github.com/DevWithSiddharth/X.com-Twitter-Clone.git
 ```
 
 
