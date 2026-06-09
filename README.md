@@ -43,7 +43,7 @@ This project is built using:
 ## 🚀 Getting Started
 
 
-If you'd like to run the project locally, follow the instructions below:
+If you'd like to run the project locally
 
 ### Clone the repository
 
